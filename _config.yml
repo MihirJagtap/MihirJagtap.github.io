@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mihir Jagtap / Portfolio"
+title                    : "Mihir Jagtap"
 title_separator          : "-"
 name                     : &name "Mihir Jagtap"
 description              : &description "personal description"
