@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio"
+title: "Mihir Jagtap"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
