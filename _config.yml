@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Mihir Jagtap"
   avatar           : "profile.png"
-  bio              : "Dedicated to software engineering and machine learning, my goal is to create a impactful dent in these fields through my work."
+  # Focused on research in machine learning and eager to innovate in the field of software engineering, I aim to make a substantial impact in both domains.
+  bio              : "Dedicated to innovate in the field of software engineering and focused on research in machine learning, my goal is to create a impactful dent in the field through my work."
   location         : "Madison, WI"
   employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
