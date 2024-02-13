@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="../files/Mihir_CV.pdf" style="width:100%; height:100vh;" frameborder="0"></iframe>
+<iframe src="" style="width:100%; height:100vh;" frameborder="0"></iframe>
